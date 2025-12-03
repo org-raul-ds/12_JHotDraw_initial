@@ -42,9 +42,9 @@ protected void createTools(Panel palette) {
 
 	super.createTools(palette);
 
-	Tool herramienta = new EjemploTool(view());
+	Tool myTool = new ExampleTool(view());
 
-	palette.add(createToolButton(IMAGES + "RECT", "Ejemplo Tool", herramienta));
+    palette.add(createToolButton(IMAGES + "RECT", "Example Tool", myTool));
 }
 ```
 
