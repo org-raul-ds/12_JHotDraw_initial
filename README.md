@@ -62,4 +62,4 @@ To submit your solution:
 
 ## ✅ Exercise Solution
 
-The solution to **this exercise** can be found in [this repository](https://github.com/org-raul-ds/12_JHD_solution.git), which will be available during the next lab session (it is currently disabled, so the link will produce an error).
+The solution to **this exercise** can be found in [this repository](https://github.com/org-raul-ds/12_JHotDraw_solution.git), which will be available during the next lab session (it is currently disabled, so the link will produce an error).
